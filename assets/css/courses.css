@@ -1,0 +1,7 @@
+.card-body {
+  flex: 0 1 auto;
+}
+
+.events .card-img img {
+  min-height: 277px;
+}
